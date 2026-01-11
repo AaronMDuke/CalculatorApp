@@ -1,5 +1,5 @@
 public class B {
-    public void SaveTheWorld() {
+    public void saveTheWorld() {
         
     }
 }
